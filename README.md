@@ -1,4 +1,4 @@
-<img src="cover.jpg" alt="Profile Cover" width="100%"/>
+<img src="cover.jpg" alt="Profile Cover" width="100%" height="300" style="object-fit: cover; object-position: center;"/>
 
 <sub><i>Photo by [Donald Giannatti](https://unsplash.com/@wizwow) on [Unsplash](https://unsplash.com/photos/Wj1D-qiOseE)</i></sub>
 
