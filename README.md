@@ -25,6 +25,5 @@ Building cool stuff with **React**, **Node.js**, and **Kotlin**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/menhazalam)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/menhazalam)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:menhazalam@duck.com)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=safari&logoColor=white)](https://menhazalam.com)
 
 <sub>✨ Thanks for stopping by! ✨</sub>
