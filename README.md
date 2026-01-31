@@ -1,27 +1,15 @@
 **Menhaz Alam**
 
-Developer building web, mobile, and desktop applications with modern tools.  
-Currently learning backend development with JavaScript (Bun / Node.js).
+Developer building web, mobile, and desktop applications.  
+Currently learning backend development with Bun and Node.js.
 
 **Tech Stack**
 
-Frontend  
-- HTML, CSS, JavaScript, TypeScript  
-- React, Svelte  
-
-Backend  
-- JavaScript (Bun, Node.js)  
-- Python  
-
-Mobile  
-- Android (Kotlin)  
-
-Desktop  
-- macOS (Swift)  
-
-Tools  
-- Docker  
-- Git  
+- Frontend: HTML, CSS, JavaScript, TypeScript, React, Svelte  
+- Backend: JavaScript (Bun, Node.js), Python  
+- Mobile: Android (Kotlin)  
+- Desktop: macOS (Swift)  
+- Tools: Docker, Git  
 
 **Contact**
 - LinkedIn: [menhazalam](https://linkedin.com/in/menhazalam)  
