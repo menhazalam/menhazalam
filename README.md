@@ -26,4 +26,4 @@ Tools
 **Contact**
 - LinkedIn: [menhazalam](https://linkedin.com/in/menhazalam)  
 - Twitter: [@menhazalam](https://twitter.com/menhazalam)  
-- Email: [menhazalam@duck.com](mailto:menhazalam.pro@gmail.com)  
+- Email: [menhazalam.pro@gmail.com](mailto:menhazalam.pro@gmail.com)  
